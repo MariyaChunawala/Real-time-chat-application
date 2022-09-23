@@ -61,7 +61,7 @@ body{
     background-color: #e9eafd;
     margin-left: auto;
 }
-.name{
+.chat_area .message h4{
     position: absolute;
     top: -20px;
     left: 0;
